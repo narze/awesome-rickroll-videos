@@ -16,4 +16,4 @@ Awesome list of all rickroll videos on the internet
 ```markdown
 - [Video Name](https://youtu.be/dQw4w9WgXcQ)
 ```
-- Sumbit Pull Request
+- Open Pull Request
