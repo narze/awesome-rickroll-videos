@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: narze/append_on_merge@v1
+      - uses: narze/append_on_merge@main
         if: ${{ github.event_name == 'pull_request' }}
         with:
           mode: "preview"
@@ -22,7 +22,7 @@ jobs:
           output: "README.md"
           processed_path: "processed"
 
-      - uses: narze/append_on_merge@v1
+      - uses: narze/append_on_merge@main
         if: ${{ github.event_name == 'push' }}
         with:
           mode: "commit"
