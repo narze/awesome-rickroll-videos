@@ -7,6 +7,8 @@ Awesome list of all rickroll videos on the internet
 - [InsurAAAnce & Rick Astley Never Gonna Give You Up](https://www.youtube.com/watch?v=GtL1huin9EE)
 - [RickRoll but it's Among Us](https://www.youtube.com/watch?v=8G0omjVSh_U)
 - [Rick roll but it's Ghost Tokyo](https://www.youtube.com/watch?v=aYsgsSo1aow)
+- [RickRoll funny](https://www.youtube.com/watch?v=wpV-gGA4PSk)
+- [Never Gonna Give YO ASOBI](https://youtu.be/iKRXIkboIqo)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
