@@ -26,6 +26,10 @@ jobs:
           hide_and_recreate: true
           hide_classify: "OUTDATED"
           GITHUB_TOKEN: F
+          TEST1: ${{ secrets.GH_TOKEN }}
+          TEST2: F
+          TEST3: ${{ secrets.GH_TOKEN }}
+          TEST4: U
           message: |
             Test message
 
