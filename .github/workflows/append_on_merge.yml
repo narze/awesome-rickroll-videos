@@ -1,8 +1,8 @@
 name: Append on merge
 
 on:
+  # Don't use "pull_request" it won't have access to GITHUB_TOKEN on forks
   pull_request_target:
-    types: [synchronize]
   push:
     branches: [main]
 
@@ -15,6 +15,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+        with:
+          # Need to specify ref for pull_request_target events
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - shell: bash
         run: |
