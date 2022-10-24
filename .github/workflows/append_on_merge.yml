@@ -21,7 +21,7 @@ jobs:
           base: "README.md"
           output: "README.md"
           processed_path: "processed"
-          repo: ${{ github.repository }}
+          repo: ${{ github.event.pull_request.repository.name }}
 
       - uses: narze/append_on_merge@main
         if: ${{ github.event_name == 'push' }}
