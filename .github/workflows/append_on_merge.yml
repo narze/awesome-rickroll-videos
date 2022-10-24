@@ -16,7 +16,7 @@ jobs:
         if: ${{ github.event_name == 'pull_request' }}
         with:
           mode: "preview"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_SECRET }}
           input_path: "input"
           base: "README.md"
           output: "README.md"
@@ -26,7 +26,7 @@ jobs:
         if: ${{ github.event_name == 'push' }}
         with:
           mode: "commit"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_SECRET }}
           input_path: "input"
           base: "README.md"
           output: "README.md"
