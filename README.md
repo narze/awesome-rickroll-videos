@@ -10,6 +10,7 @@ Awesome list of all rickroll videos on the internet
 - [RickRoll funny](https://www.youtube.com/watch?v=wpV-gGA4PSk)
 - [Never Gonna Give YO ASOBI](https://youtu.be/iKRXIkboIqo)
 - [Rick roll but it's in Japanese](https://youtu.be/mW61VTLhNjQ)
+- [Akyra Eurobeat 2020 Extended Mix](https://www.youtube.com/watch?v=c-q6GBjQUKo)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
