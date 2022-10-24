@@ -1,24 +1,28 @@
 name: Append on merge
 
 on:
-  pull_request:
+  pull_request_target:
+    types: [synchronize]
   push:
     branches: [main]
 
-permissions:
-  contents: write
-  pull-requests: write
-
 jobs:
   build:
+    # permissions:
+    #   contents: write
+    #   pull-requests: write
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
 
+      - shell: bash
+        run: |
+          echo "gh_token=${{ secrets.GH_TOKEN }}" >> $GITHUB_ENV
+
       - name: Add preview comment
         uses: marocchino/sticky-pull-request-comment@v2.2.1
-        if: ${{ github.event_name == 'pull_request' }}
+        if: ${{ github.event_name == 'pull_request_target' }}
         with:
           hide_and_recreate: true
           hide_classify: "OUTDATED"
@@ -26,7 +30,7 @@ jobs:
             Test message
 
       - uses: narze/append_on_merge@main
-        if: ${{ github.event_name == 'pull_request' }}
+        if: ${{ github.event_name == 'pull_request_target' }}
         with:
           mode: "preview"
           github_token: ${{ secrets.GITHUB_TOKEN }}
