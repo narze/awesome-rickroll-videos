@@ -9,6 +9,7 @@ Awesome list of all rickroll videos on the internet
 - [Rick roll but it's Ghost Tokyo](https://www.youtube.com/watch?v=aYsgsSo1aow)
 - [RickRoll funny](https://www.youtube.com/watch?v=wpV-gGA4PSk)
 - [Never Gonna Give YO ASOBI](https://youtu.be/iKRXIkboIqo)
+- [Rick roll but it's in Japanese](https://youtu.be/mW61VTLhNjQ)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
