@@ -16,7 +16,6 @@ jobs:
         uses: marocchino/sticky-pull-request-comment@v2.2.1
         if: ${{ github.event_name == 'pull_request' }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           hide_and_recreate: true
           hide_classify: "OUTDATED"
           message: |
