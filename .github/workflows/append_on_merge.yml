@@ -27,7 +27,7 @@ jobs:
           hide_classify: "OUTDATED"
           message: |
             Test message
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - uses: narze/append_on_merge@main
         if: ${{ github.event_name == 'pull_request' }}
