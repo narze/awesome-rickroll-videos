@@ -1,7 +1,8 @@
 name: Append on merge
 
 on:
-  pull_request:
+  pull_request_target:
+    types: [synchronize]
   push:
     branches: [main]
 
