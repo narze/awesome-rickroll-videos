@@ -25,7 +25,7 @@ jobs:
         with:
           hide_and_recreate: true
           hide_classify: "OUTDATED"
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          "GITHUB_TOKEN": ${{ secrets.GH_TOKEN }}
           message: |
             Test message
 
