@@ -12,6 +12,7 @@ Awesome list of all rickroll videos on the internet
 - [Rick roll but it's in Japanese](https://youtu.be/mW61VTLhNjQ)
 - [Akyra Eurobeat 2020 Extended Mix](https://www.youtube.com/watch?v=c-q6GBjQUKo)
 - [Hatsune Miku](https://www.youtube.com/watch?v=28FVxYQuLOQ)
+- [Literal Thai Translated Rick Roll] (https://www.youtube.com/watch?v=PLIvEAXTCQM)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
