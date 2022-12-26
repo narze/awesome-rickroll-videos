@@ -14,6 +14,7 @@ Awesome list of all rickroll videos on the internet
 - [Hatsune Miku](https://www.youtube.com/watch?v=28FVxYQuLOQ)
 - [Literal Thai Translated Rick Roll](https://www.youtube.com/watch?v=PLIvEAXTCQM)
 - [Rick Astleyに駆ける remastered (full ver.)](https://www.youtube.com/watch?v=O_vMqGuoxv8)
+- [Bonetrousle, but it's a RickRoll](https://www.youtube.com/watch?v=PqF4ot0XT6w)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
