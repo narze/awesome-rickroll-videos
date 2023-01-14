@@ -15,7 +15,7 @@ Awesome list of all rickroll videos on the internet
 - [Literal Thai Translated Rick Roll](https://www.youtube.com/watch?v=PLIvEAXTCQM)
 - [Rick Astleyに駆ける remastered (full ver.)](https://www.youtube.com/watch?v=O_vMqGuoxv8)
 - [Bonetrousle, but it's a RickRoll](https://www.youtube.com/watch?v=PqF4ot0XT6w)
-- [Camellis's 2023](https://www.youtube.com/watch?v=qbnt_vmk4fU)
+- [Camellia Roll](https://www.youtube.com/watch?v=qbnt_vmk4fU)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
