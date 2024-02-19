@@ -19,6 +19,7 @@ Awesome list of all rickroll videos on the internet
 - [Ghost Astley Tokyo](https://www.youtube.com/watch?v=aYsgsSo1aow)
 - [Never Gonna Give You Up | Rick Astley Rocks New Year's Eve - BBC](https://www.youtube.com/watch?v=XGxIE1hr0w4)
 - [Desire Drive](https://www.youtube.com/watch?v=zry4zeN0SHw)
+- [bad apple roll](https://www.youtube.com/watch?v=pAupRxbESKM)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
