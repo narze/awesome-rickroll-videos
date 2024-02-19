@@ -16,6 +16,8 @@ Awesome list of all rickroll videos on the internet
 - [Rick Astleyに駆ける remastered (full ver.)](https://www.youtube.com/watch?v=O_vMqGuoxv8)
 - [Bonetrousle, but it's a RickRoll](https://www.youtube.com/watch?v=PqF4ot0XT6w)
 - [Camellia Roll](https://www.youtube.com/watch?v=qbnt_vmk4fU)
+- [Ghost Astley Tokyo](https://www.youtube.com/watch?v=aYsgsSo1aow)
+- [Never Gonna Give You Up | Rick Astley Rocks New Year's Eve - BBC](https://www.youtube.com/watch?v=XGxIE1hr0w4)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
