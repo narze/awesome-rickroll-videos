@@ -20,6 +20,8 @@ Awesome list of all rickroll videos on the internet
 - [Never Gonna Give You Up | Rick Astley Rocks New Year's Eve - BBC](https://www.youtube.com/watch?v=XGxIE1hr0w4)
 - [Desire Drive](https://www.youtube.com/watch?v=zry4zeN0SHw)
 - [bad apple roll](https://www.youtube.com/watch?v=pAupRxbESKM)
+- [Never gonna Meow you up](https://www.youtube.com/watch?v=hvL1339luv0)
+- [Never gonna Bork you up](https://www.youtube.com/watch?v=EpX1_YJPGAY)
 <!--%%% APPEND_ON_MERGE %%%-->
 
 ## Contribution
